@@ -379,25 +379,6 @@ Contains:
 - Differential-drive controller
 - RViz2 startup
 
-## 🧪 Development Roadmap
-
-Planned improvements:
-
-- [ ] Keyboard teleoperation node / `teleop_twist_keyboard`
-- [ ] Better UGV visual model
-- [ ] Collision geometry
-- [ ] Inertial properties
-- [ ] Gazebo / simulation integration
-- [ ] Real motor hardware interface
-- [ ] IMU integration
-- [ ] LiDAR integration
-- [ ] Camera integration
-- [ ] SLAM
-- [ ] Navigation2
-- [ ] Autonomous waypoint navigation
-- [ ] Obstacle avoidance
-- [ ] Sensor fusion / localization
-
 ## 🧩 Learning Goals
 
 This project is also intended as a practical ROS 2 learning project covering:
@@ -417,21 +398,6 @@ This project is also intended as a practical ROS 2 learning project covering:
 - odometry
 - ROS 2 topics and messages
 - Robot bringup architecture
-
-## 🤝 Contributing
-
-Contributions, improvements, and suggestions are welcome.
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Test the ROS 2 packages.
-5. Commit your changes.
-6. Open a pull request.
-
-## 📄 License
-
-License information has not yet been specified in the ROS 2 package manifests. Add a license before distributing the project as a finalized open-source package.
 
 ## 👤 Author
 
